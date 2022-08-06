@@ -1,0 +1,52 @@
+{
+    "name": "cpp-developer-pack",
+    "displayName": "C++ Developer Pack",
+    "description": "Extension pack for cpp(c++) developers which contains code intellisense, syntax highlighting and debugging",
+    "publisher": "pixiedev",
+    "author": {
+        "name": "Praveen Yadav",
+        "url": "https://github.com/pixiedevpraveen/",
+        "email": "praveenyadav7787@gmail.com"
+    },
+    "version": "0.0.1",
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "austin.code-gnu-global",
+        "formulahendry.code-runner",
+        "franneck94.c-cpp-runner",
+        "jeff-hykin.better-cpp-syntax",
+        "ms-vscode.cpptools",
+        "vadimcn.vscode-lldb"
+    ],
+    "license": "SEE LICENSE IN LICENSE",
+    "homepage": "https://github.com/pixiedevpraveen/cpp-developer-pack/blob/main/README.md",
+    "galleryBanner": {
+        "color": "#2C2424",
+        "theme": "dark"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/pixiedevpraveen/cpp-developer-pack/"
+    },
+    "bugs": {
+        "url": "https://github.com/pixiedevpraveen/cpp-developer-pack/issues",
+        "email": "praveenyadav7787@gmail.com"
+    },
+    "keywords": [
+        "C++ Developer Pack",
+        "C++ Developer Pack pixiedev",
+        "Extension Pack",
+        "Pixiedev"
+    ],
+    "icon": "icon.png",
+    "engines": {
+        "vscode": "^1.15.0"
+    },
+    "__metadata": {
+        "id": "pixiedev.cpp-developer-pack",
+        "publisherDisplayName": "pixiedev",
+        "publisherId": "442d38ef-e5cd-6fe0-a0e5-f81cf2a12e6b"
+    }
+}
