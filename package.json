@@ -1,34 +1,32 @@
 {
     "name": "cpp-developer-pack",
     "displayName": "C++ Developer Pack",
-    "description": "Extension pack for cpp(c++) developers which contains code intellisense, syntax highlighting and debugging",
+    "description": "A comprehensive extension pack for C++ developers, including code intellisense, syntax highlighting, and debugging tools.",
     "publisher": "pixiedev",
     "author": {
         "name": "Praveen Yadav",
-        "url": "https://github.com/pixiedevpraveen/",
-        "email": "praveenyadav7787@gmail.com"
+        "email": "praveenyadav7787@gmail.com",
+        "url": "https://github.com/pixiedevpraveen/"
     },
-    "version": "0.1.0",
+    "version": "1.0.0",
     "categories": [
         "Extension Packs"
     ],
     "extensionPack": [
-        "austin.code-gnu-global",
-        "formulahendry.code-runner",
-        "franneck94.c-cpp-runner",
-        "jeff-hykin.better-cpp-syntax",
         "ms-vscode.cpptools",
-        "vadimcn.vscode-lldb"
+        "vadimcn.vscode-lldb",
+        "jeff-hykin.better-cpp-syntax",
+        "franneck94.c-cpp-runner"
     ],
     "license": "SEE LICENSE IN LICENSE",
     "homepage": "https://github.com/pixiedevpraveen/cpp-developer-pack/blob/main/README.md",
     "galleryBanner": {
-        "color": "#2C2424",
+        "color": "#007ACC",
         "theme": "dark"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/pixiedevpraveen/cpp-developer-pack/"
+        "url": "https://github.com/pixiedevpraveen/cpp-developer-pack.git"
     },
     "bugs": {
         "url": "https://github.com/pixiedevpraveen/cpp-developer-pack/issues",
@@ -36,9 +34,16 @@
     },
     "keywords": [
         "C++ Developer Pack",
-        "C++ Developer Pack pixiedev",
+        "C++",
         "Extension Pack",
-        "Pixiedev"
+        "Visual Studio Code",
+        "VSCode",
+        "Intellisense",
+        "Syntax Highlighting",
+        "Debugging",
+        "Code Runner",
+        "C/C++",
+        "LLDB"
     ],
     "icon": "icon.png",
     "engines": {
